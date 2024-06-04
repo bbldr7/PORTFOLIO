@@ -1,5 +1,7 @@
-print('hi)
+print('hi')
 
 print('more')
 
+print('')
 
+2
